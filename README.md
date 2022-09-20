@@ -6,7 +6,8 @@
 
 
 ## 🚀 About Me
-I'm a Python developer...
+I'm a Python developer.
+I want to become a Data Scientist.
 
 
 ## 🔗 Links
